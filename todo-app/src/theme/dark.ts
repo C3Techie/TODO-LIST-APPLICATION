@@ -1,0 +1,18 @@
+export const darkTheme = {
+  background: '#171823',
+  headerBackgroundImage: require('../../assets/backgrounds/BitmapDark Desktop.png'),
+  headerBackgroundImageMobile: require('../../assets/backgrounds/BitmapDark Mobile.png'),
+  cardBackground: '#25273D',
+  inputBackground: '#25273D',
+  text: '#C8CBE7',
+  textSecondary: '#5B5E7E',
+  textCompleted: '#4D5067',
+  border: '#393A4B',
+  checkbox: '#393A4B',
+  checkboxActive: '#55DDFF',
+  shadow: 'rgba(0, 0, 0, 0.5)',
+  filterActive: '#3A7CFD',
+  filterInactive: '#5B5E7E',
+  deleteButton: '#5B5E7E',
+  themeIcon: 'sun',
+};

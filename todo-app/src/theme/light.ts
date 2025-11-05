@@ -1,0 +1,18 @@
+export const lightTheme = {
+  background: '#FAFAFA',
+  headerBackgroundImage: require('../../assets/backgrounds/BitmapLight Desktop.png'),
+  headerBackgroundImageMobile: require('../../assets/backgrounds/BitmapLight Mobile.png'),
+  cardBackground: '#FFFFFF',
+  inputBackground: '#FFFFFF',
+  text: '#494C6B',
+  textSecondary: '#9495A5',
+  textCompleted: '#D1D2DA',
+  border: '#E3E4F1',
+  checkbox: '#E3E4F1',
+  checkboxActive: '#55DDFF',
+  shadow: 'rgba(0, 0, 0, 0.1)',
+  filterActive: '#3A7CFD',
+  filterInactive: '#9495A5',
+  deleteButton: '#9495A5',
+  themeIcon: 'moon',
+};
