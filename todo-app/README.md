@@ -207,9 +207,9 @@ Test the app on:
 ### Desktop
 
 <div align="center">
-   <img src="assets/backgrounds/Screenshot (70).jpg" alt="Desktop Screenshot 1" width="400" />
-   <img src="assets/backgrounds/Screenshot (71).jpg" alt="Desktop Screenshot 2" width="400" />
-   <img src="assets/backgrounds/Screenshot (72).jpg" alt="Desktop Screenshot 3" width="400" />
+   <img src="assets/backgrounds/Screenshot (70).png" alt="Desktop Screenshot 1" width="400" />
+   <img src="assets/backgrounds/Screenshot (71).png" alt="Desktop Screenshot 2" width="400" />
+   <img src="assets/backgrounds/Screenshot (72).png" alt="Desktop Screenshot 3" width="400" />
 </div>
 
 ## Troubleshooting
