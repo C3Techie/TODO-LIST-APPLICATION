@@ -81,7 +81,5 @@ const styles = StyleSheet.create({
     fontFamily: 'JosefinSans_400Regular',
     fontWeight: '400',
     letterSpacing: -0.25,
-    width: 129,
-    height: 18,
   },
 });

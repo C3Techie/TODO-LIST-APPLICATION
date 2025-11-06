@@ -193,10 +193,24 @@ todo-app/
 ## Testing
 
 Test the app on:
-- ✅ Android devices/emulators
-- ✅ iOS devices/simulators
-- ✅ Web browsers
-- ✅ Different screen sizes
+
+## Screenshots
+
+### Mobile
+
+<div align="center">
+   <img src="assets/background/1000919198.jpg" alt="Mobile Screenshot 1" width="250" />
+   <img src="assets/background/1000919199.jpg" alt="Mobile Screenshot 2" width="250" />
+   <img src="assets/background/1000919197.jpg" alt="Mobile Screenshot 3" width="250" />
+</div>
+
+### Desktop
+
+<div align="center">
+   <img src="assets/background/Screenshot (70).jpg" alt="Desktop Screenshot 1" width="400" />
+   <img src="assets/background/Screenshot (71).jpg" alt="Desktop Screenshot 2" width="400" />
+   <img src="assets/background/Screenshot (72).jpg" alt="Desktop Screenshot 3" width="400" />
+</div>
 
 ## Troubleshooting
 
